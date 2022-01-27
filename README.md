@@ -10,5 +10,6 @@ In this repository, there are my simple python works that I coded.
 - Fibonacci calculator
 - List reverse example
 - Prime number test
+- Anagram example
 
 *I will continue to update the repository over time, please stay tuned!*
