@@ -1,7 +1,6 @@
-# Python Basics
-In this repository, there are my simple python works that I coded.
+## Python Basics
 
-# Projects:
+### Projects:
 
 - BIM calculator
 - Armstrong number test
@@ -12,4 +11,13 @@ In this repository, there are my simple python works that I coded.
 - Prime number test
 - Anagram example
 
-*I will continue to update the repository over time, please stay tuned!*
+## CodingBat Solutions
+
+### Sections:
+- List-1
+- List-2
+- String-1
+- String-2
+- Warmup-1
+- Warmup-2
+
